@@ -1,0 +1,2 @@
+## pls see "https://blog.csdn.net/gjy_skyblue/article/details/123849432?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-123849432-blog-123848735.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-123849432-blog-123848735.235%5Ev43%5Econtrol&utm_relevant_index=10" to find how to operate the driver board
+Some of the instruction can be done by operating on the motor driver board, so I didn't write those in code
