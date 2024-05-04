@@ -36,11 +36,11 @@ void Simple_Read(Motor* motor, ReadTypes type){
     Add_CheckByte(motor->msg);
     Write_2_Driver(motor->msg);
 }
-void W_Drive_w_Steps(Motor* motor,int steps){
-
+void W_Drive_w_Steps(Motor* motor,int speed,int steps){
+    motor->msg[1] = 0xfd;
 }
 void W_EnableMotor(Motor *Motor,bool enable){
-    
+
 }
 
 
