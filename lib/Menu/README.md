@@ -15,4 +15,4 @@
 |       |   |--Back
 |       |--Back
 ~~~
-- We got a menu with 7 orders
+- We got a menu with 7 pages
